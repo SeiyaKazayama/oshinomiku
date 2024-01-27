@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+
+<body background="../miku/back.jpg" align="center">
+<header>
+    <h1>葱葱单推小挑战</h1>
+</header>
+
+<div class="can">
+<canvas id="canvas" width="560" height="560">
+<!--    这里不知道为什么调整图片不是很能正常显示ww-->
+</canvas>
+</div>
+<div class="msg"></div>
+<img id="block" src="../miku/2.jpg" alt="" style="display:none;">
+<img id="wall" src="../miku/1.jpg" alt="" style="display:none;">
+<img id="box" src="../miku/4.jpg" alt="" style="display:none;">
+<img id="down" src="../miku/6.jpg" alt="" style="display:none;">
+<img id="left" src="../miku/6.jpg" alt="" style="display:none;">
+<img id="right" src="../miku/6.jpg" alt="" style="display:none;">
+<img id="up" src="../miku/6.jpg" alt="" style="display:none;">
+<img id="ball" src="../miku/3.jpg" alt="" style="display:none;">
+<p class="msg"></p>
+<div class="bots" align="center" >
+    <input type="button" value="上一关" onclick="level(-1)">
+    <input type="button" value="重玩" onclick="level(0)">
+    <input type="button" value="下一关" onclick="level(+1)">
+</div>
+<div class="name">
+<footer>
+    <p>mikuasobihako:D</p>
+    <p><time in="2024.1"></time>by hyf</p>
+</footer>
+</div>
+<script src="maps.js"></script>
+<script src="games.js"></script>
+</body>
+
+</html>

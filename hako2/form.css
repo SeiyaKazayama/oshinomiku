@@ -1,0 +1,29 @@
+body{
+    margin:auto;
+    padding-top: 100px;
+
+}
+.can{
+    align-content: center;
+
+}
+canvas {
+    display: block;
+    margin: auto;
+    border: 6px solid aquamarine;
+}
+.name{
+    padding-top: 30px;
+}
+p{
+    align-content: center;
+    padding-bottom: 5px;
+    font-size: large;
+    color:cadetblue;
+    background: azure center;
+}
+header{
+    color:cadetblue;
+    background: azure;
+
+}

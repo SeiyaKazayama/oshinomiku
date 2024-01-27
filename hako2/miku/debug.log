@@ -1,0 +1,22 @@
+[0124/173605.291:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[0124/173605.291:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[0124/173605.291:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
+[0124/173605.552:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[0124/173605.553:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[0124/173605.553:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
+[0124/173605.598:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[0124/173605.703:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[0124/173605.703:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[0124/173605.704:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
+[0124/173605.739:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[0124/173605.748:ERROR:browser_gpu_channel_host_factory.cc(138)] Failed to launch GPU process.
+[0124/173606.594:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[0124/173606.594:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[0124/173606.594:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
+[0124/173606.782:ERROR:browser_gpu_channel_host_factory.cc(138)] Failed to launch GPU process.
+[0124/173606.860:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[0124/173606.860:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[0124/173606.860:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
+[0124/173606.860:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[0124/173606.860:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[0124/173606.860:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
